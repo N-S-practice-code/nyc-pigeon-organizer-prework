@@ -4,7 +4,7 @@ def nyc_pigeon_organizer(data)
   data.values.flatten.values.each do |el|
     pigeon_list[el]={}
     data.each do |k1,v1|
-      
+      pigeon_list[el][k1]
     end
     
   end

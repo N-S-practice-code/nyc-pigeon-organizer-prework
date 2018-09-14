@@ -1,4 +1,5 @@
 def nyc_pigeon_organizer(data)
   # write your code here!
-  data.values.flatten.values
+  pigeon_list=
+  data.values.flatten.values.each do |el|
 end
